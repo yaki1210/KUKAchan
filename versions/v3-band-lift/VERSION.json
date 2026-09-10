@@ -1,0 +1,15 @@
+{
+  "id": "v3-band-lift",
+  "name": "上带上移、下带斜收",
+  "savedAt": "2026-09-10T13:50:40.583Z",
+  "stage": "02-上色",
+  "notes": "上带整体上移；下带二次弧末端顺着斜线走，不再收成水平。",
+  "files": [
+    "AssistantModel.tsx",
+    "geom.ts",
+    "materials.ts",
+    "Studio.tsx",
+    "StudioOverlay.tsx",
+    "studio-store.ts"
+  ]
+}

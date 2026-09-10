@@ -1,5 +1,5 @@
 {
-  "lastSnapshot": "v3-band-curve",
+  "lastSnapshot": "v3-band-lift",
   "nextProposed": "v4-lens",
   "versions": [
     {
@@ -29,6 +29,13 @@
       "stage": "02-上色",
       "savedAt": "2026-09-10T13:41:29.850Z",
       "notes": "上带中间下凸、两侧固定点抬高；下带中间上凸。回退点 v3-panels。"
+    },
+    {
+      "id": "v3-band-lift",
+      "name": "上带上移、下带斜收",
+      "stage": "02-上色",
+      "savedAt": "2026-09-10T13:50:40.583Z",
+      "notes": "上带整体上移；下带二次弧末端顺着斜线走，不再收成水平。"
     }
   ]
 }
