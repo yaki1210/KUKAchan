@@ -1,0 +1,15 @@
+{
+  "id": "v3-band-curve",
+  "name": "橙带弧度",
+  "savedAt": "2026-09-10T13:41:29.850Z",
+  "stage": "02-上色",
+  "notes": "上带中间下凸、两侧固定点抬高；下带中间上凸。回退点 v3-panels。",
+  "files": [
+    "AssistantModel.tsx",
+    "geom.ts",
+    "materials.ts",
+    "Studio.tsx",
+    "StudioOverlay.tsx",
+    "studio-store.ts"
+  ]
+}

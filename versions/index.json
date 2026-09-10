@@ -1,5 +1,5 @@
 {
-  "lastSnapshot": "v3-panels",
+  "lastSnapshot": "v3-band-curve",
   "nextProposed": "v4-lens",
   "versions": [
     {
@@ -22,6 +22,13 @@
       "stage": "02-上色",
       "savedAt": "2026-09-10T13:32:26.387Z",
       "notes": "暗色内壳+装甲片板缝；三条凹陷顶纹；上下橙带穿过颞窗。镜头六边面板留给 v4。"
+    },
+    {
+      "id": "v3-band-curve",
+      "name": "橙带弧度",
+      "stage": "02-上色",
+      "savedAt": "2026-09-10T13:41:29.850Z",
+      "notes": "上带中间下凸、两侧固定点抬高；下带中间上凸。回退点 v3-panels。"
     }
   ]
 }
