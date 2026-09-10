@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MIMI",
+      "hasCanvas": true,
+      "bodyTextLen": 128,
+      "bodyTextHash": "edc8961e43591fae60cb0679bfa6b08c5ac0f34fe92bd4785f5f8638c8cfd078",
+      "bodyTextPrefix": "LANGUAGE COMPANION MIMI 当前为粘土白模。拖转查看形体，确认后再上色与动效。 01 白模 确认形体 02 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MIMI",
+      "hasCanvas": true,
+      "bodyTextLen": 94,
+      "bodyTextHash": "563ce036e163ed25c824c069511b27a7c2a632cac94ce59fa8e86f838fa3916b",
+      "bodyTextPrefix": "LANGUAGE COMPANION MIMI 当前为粘土白模。拖转查看形体，确认后再上色与动效。 拖拽旋转 · 滚轮缩放 · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND WARNING: this looks like a game/canvas app but src/lib/og/site.json is missing \"type\": \"x:game\". X uses og:type=x:game to present the unfurl as a game card — set it in /workspace/src/lib/og/site.json per /workspace/.grok/skills/og/SKILL.md. Do not invent x:type or overload twitter:card as the game signal.",
+    "BRAND WARNING: this looks like a game/canvas app but /workspace/public/x-banner.jpg is missing. Games need a 50:11 X feed card (1200×264 JPEG) at public/x-banner.jpg — open /workspace/.grok/skills/og/SKILL.md and finish the brand-asset pass."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="MIMI">
+  <rect width="32" height="32" rx="8" fill="#161513"/>
+  <path d="M7 16 L11 4 L16 13 Z" fill="#ded9d0"/>
+  <path d="M16 13 L21 4 L25 16 Z" fill="#ded9d0"/>
+  <circle cx="16" cy="19" r="9" fill="#ded9d0"/>
+  <circle cx="16" cy="20" r="4.5" fill="#161513"/>
+  <circle cx="16" cy="20" r="2.25" fill="#e0703c"/>
+</svg>
