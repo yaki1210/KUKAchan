@@ -1,0 +1,15 @@
+{
+  "id": "v3-panels",
+  "name": "分件与橙带",
+  "savedAt": "2026-09-10T13:32:26.387Z",
+  "stage": "02-上色",
+  "notes": "暗色内壳+装甲片板缝；三条凹陷顶纹；上下橙带穿过颞窗。镜头六边面板留给 v4。",
+  "files": [
+    "AssistantModel.tsx",
+    "geom.ts",
+    "materials.ts",
+    "Studio.tsx",
+    "StudioOverlay.tsx",
+    "studio-store.ts"
+  ]
+}

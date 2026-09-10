@@ -1,6 +1,6 @@
 {
-  "lastSnapshot": "v2-paint",
-  "nextProposed": "v3-panels",
+  "lastSnapshot": "v3-panels",
+  "nextProposed": "v4-lens",
   "versions": [
     {
       "id": "v1-clay",
@@ -15,6 +15,13 @@
       "stage": "02-上色",
       "savedAt": "2026-09-10T12:42:00.558Z",
       "notes": "银灰/琥珀耳/橙镜头箍。壳体仍光滑，缺橙带与板缝，Phong 看起来像粘土。"
+    },
+    {
+      "id": "v3-panels",
+      "name": "分件与橙带",
+      "stage": "02-上色",
+      "savedAt": "2026-09-10T13:32:26.387Z",
+      "notes": "暗色内壳+装甲片板缝；三条凹陷顶纹；上下橙带穿过颞窗。镜头六边面板留给 v4。"
     }
   ]
 }
