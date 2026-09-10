@@ -3,3 +3,8 @@ node_modules/
 .github_repo
 .env
 .env.*
+
+# Local concept photos (already in public/concept-*.jpg)
+/image1.png
+/image2png.png
+

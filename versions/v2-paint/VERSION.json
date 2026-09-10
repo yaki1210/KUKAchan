@@ -1,0 +1,15 @@
+{
+  "id": "v2-paint",
+  "name": "上色第一轮",
+  "savedAt": "2026-09-10T12:42:00.558Z",
+  "stage": "02-上色",
+  "notes": "银灰/琥珀耳/橙镜头箍。壳体仍光滑，缺橙带与板缝，Phong 看起来像粘土。",
+  "files": [
+    "AssistantModel.tsx",
+    "geom.ts",
+    "materials.ts",
+    "Studio.tsx",
+    "StudioOverlay.tsx",
+    "studio-store.ts"
+  ]
+}
